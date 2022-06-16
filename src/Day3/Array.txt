@@ -1,0 +1,28 @@
+#Array_Object
+In java, array is an object.
+array keeps elements(data) into its corresponding spaces(rooms).
+To creat array(object), you need to set the number of space(room) before.
+You can use the following styles to create an array,
+        int array [] = {1,2,3} **You can only write this style while declaring variables. You can't assign any new variables to this array.**
+        array = int [] {1,2,3,4}
+        int [] array = new int []{1,2,3,4}
+        int [] array = new int [3]
+
+#Array_Initialization
+
+In array, Index starts with 0.
+If you add elements(data) directly to the array instead of setting  room's number in the array list, you can't set room's number while declaring the array.
+In reverse, you can't add elements(data) to the array that has limited space number while  declaring the array.
+
+int [] array = new int [] {1,2,3,4}
+int [] array;
+array = new int [4];
+array[0] = 1; // In this line , 0 is the index and 1 is the value in that index array. You can use this way to assign value into array.
+System.out.print(array[0]); //You can use this to show your 0th indexed array's value.
+array[1] = 2;
+array[2] = 3;
+array[3] = 4;
+
+New array space(room) can't be added or remove to the existing(declared) array.
+You can assign the new values to the array's values one by one.
+
