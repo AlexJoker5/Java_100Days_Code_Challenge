@@ -23,3 +23,11 @@
 **Thoughts:** Today biggest challenge is creating a method to add new values into the existing array by using Arrays.copyOf() method. I was struggling for an hour ,but eventually I get it.
 
 **Link to work:** [Day3 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day3)
+
+### Day 4: June 18, 2022
+
+**Today's Progress**: Today I learn what is constructor, how to write constructor and why I need constructor, what is default constructor, what is block, when to use static, instance and local blocks, and what are loading times of blocks and constructor.
+
+**Thoughts:** There's a use about exception and FileInputStream in project which I'm not familiar.  
+
+**Link to work:** [Day4 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day4)

@@ -1,0 +1,7 @@
+ What is code block?
+    Code block is just curly brackets.
+    There are three types of code block.
+    They are - 1.static block   // if it's in a class, and static
+               2.instance block // if it's in a class that is used for creating object, and instance
+               3.local block. // if it's in a method,
+
