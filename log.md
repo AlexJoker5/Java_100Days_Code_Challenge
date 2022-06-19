@@ -31,3 +31,11 @@
 **Thoughts:** There's a use about exception and FileInputStream in project which I'm not familiar.  
 
 **Link to work:** [Day4 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day4)
+
+### Day 5: June 20, 2022
+
+**Today's Progress**: Today I learn what is package, what are access modifiers, where are access modifiers used, what are non-access modifiers, where are non-access modifiers used, what are identifiers and how to name them correctly.  
+
+**Thoughts:** I skipped a day due to my Japanese study session. This should be day 6 ,but I just want to count the days I learn upto 100. Now, I have known access modifiers and non-access modifiers clearly.
+
+**Link to work:** [Day5 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day5)

@@ -1,0 +1,6 @@
+What is package?
+    Package is folder.
+Why do we use package?
+    We use it when we need to write classes in the same category into one place.
+    We can keep a class which has the same name in a package.
+
