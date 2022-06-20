@@ -1,0 +1,12 @@
+Non Access Modifiers
+    Common ones -   abstract, (will be talked more detail in OOP)
+                    static (used in variables and methods) and
+                    final.  (used in class means this class can't be extended,
+                            used in variable means you can't change its value ,and it becomes constant.
+                            used in method means you can't override this method.)
+                    (**Note : You can't use final and abstract together.)
+    Uncommon ones - synchronized, (used in methods, code blocks and used for multi-threading.)
+                    volatile, (used in variables (mainly in primitive data types) and used for thread safe problem.)
+                    native, (used in method)
+                    strictfp and (used in class, interface and method)
+                    transient. * (used in instance variables)

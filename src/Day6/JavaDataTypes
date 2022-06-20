@@ -1,0 +1,29 @@
+There are two data types in Java.
+Primitive Data Type
+     Primitive data types are prepared by OS to use in Programming.
+     In java, primitive data types are used in JVM.
+     Primitive data types have their own literals and their values can be directly used in source code.
+     There are three types of primitive data types. They are  -
+            Numeric Data Type
+                    Numeric data type has two more categories.
+                            Integers
+                                    byte,shot,int and long are used as integers data type.
+                            Floating-point
+                                    float and double are used as floating-point data type.
+            Character Data Type
+                    char is used in character data type.
+                    char can be turned into int.
+            Boolean Data Type
+                    boolean is used in boolean data type.
+Reference Data Types
+    Reference data types are objects' types.
+
+In JVM, there are two main memories. They're stack memory and heap memory
+In stack memory,
+        All codes that are currently running are copied into stack memory and cpu uses them.
+        After executing the codes, stack memory clears them.
+        Stack memory uses queueing system. (Last In, First Out)
+        Stack memory uses primitive data types.
+In heap memory,
+        Compared to stack memory, heap memory has larger space and longer lifetime.
+        Heap memory uses reference data types.
