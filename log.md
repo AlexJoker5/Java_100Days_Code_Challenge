@@ -39,3 +39,11 @@
 **Thoughts:** I skipped a day due to my Japanese study session. This should be day 6 ,but I just want to count the days I learn upto 100. Now, I have known access modifiers and non-access modifiers clearly.
 
 **Link to work:** [Day5 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day5)
+
+### Day 6: June 21, 2022
+
+**Today's Progress**: Today I learn what are data types, how does stack memory and reference memory works(not in details), what are primitive data types and which ones can be used as literal. 
+
+**Thoughts:** I'm quite sleepy and distract my thoughts frequently ,and it's quite challenging to learn java today.
+
+**Link to work:** [Day6 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day6)

@@ -1,0 +1,13 @@
+There are two data types in Java.
+Primitive Data Type
+     Primitive data types are prepared by OS to use in JVM.
+Reference Data Types
+    Reference data types are objects' types.
+
+In JVM, there are two main memories. They're stack memory and heap memory
+In stack memory,
+        All codes that are currently running are copied into stack memory and cpu uses them.
+        After executing the codes, stack memory clears them.
+        Stack memory uses queueing system. (Last In, First Out)
+In heap memory,
+        Compared to stack memory, heap memory has larger space and longer lifetime.
