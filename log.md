@@ -47,3 +47,11 @@
 **Thoughts:** I'm quite sleepy and distract my thoughts frequently ,and it's quite challenging to learn java today.
 
 **Link to work:** [Day6 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day6)
+
+### Day 7: June 22, 2022
+
+**Today's Progress**: Today I learn what is primitive casting, what is reference data type, how does jvm work and how does garbage collection work.
+
+**Thoughts:** I really don't understand well and can't get into it since it's saying how memory works when we write class and objects.
+
+**Link to work:** [Day7 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day7)
