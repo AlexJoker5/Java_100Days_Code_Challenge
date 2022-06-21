@@ -1,9 +1,7 @@
 package ExtraCodeChallengeFromCodeWars;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-
 public class PigLatin {
+    /*Finished*/
     public static void main(String[] args) {
         pigIt("Pig latin is cool !");
 
@@ -38,24 +36,3 @@ public class PigLatin {
         return strs;
     }
 }
-
-/*
-public class PigLatin {
-    public static String pigIt(String str) {
-      String strs = "";
-      String [] word = str.split(" ");
-      String [] newWord = new String[word.length];
-
-      for(int i=0; i<word.length;i++){
-          newWord[i]=word[i].substring(1)+word[i].substring(0,1)+"ay";
-      }
-      for(int j= 0; j<newWord.length -1; j++){
-                strs += newWord[j]+" ";
-      }
-        strs+=newWord[newWord.length-1];
-        return strs;
-    }
-
-
-
-}*/
