@@ -1,0 +1,12 @@
+Wrapper classes are Objects that Primitive data types are turned into and used when you want to use Primitive data types' functions
+Turning Primitive data types into Objects are called boxing.
+Turning Objects into Primitive data types are called unboxing.
+        Primitive           Wrapper             Argument Types of Constructor
+        boolean             Boolean             boolean or String
+        char                Character           char
+        byte                Byte                byte or String
+        short               Short               short or String
+        int                 Integer             int or String
+        long                Long                long or String
+        float               Float               float, double or String
+        double              Double              double or String
