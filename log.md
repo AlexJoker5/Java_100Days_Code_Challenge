@@ -55,3 +55,11 @@
 **Thoughts:** I really don't understand well and can't get into it since it's saying how memory works when we write class and objects.
 
 **Link to work:** [Day7 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day7)
+
+### Day 8: June 23, 2022
+
+**Today's Progress**: Today, I learn What and how multi-references work, how does static variable and instance variable passes in a static method, What is the difference between Primitive and References and What are primitive wrappers and wrapper classes.
+
+**Thoughts:** I start studying later than the usual time. Today biggest harvest is I clearly understand differences between primitive and references and how does a static method's arguments work depending on variable types.
+
+**Link to work:** [Day8 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day8)
