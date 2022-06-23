@@ -63,3 +63,11 @@
 **Thoughts:** I start studying later than the usual time. Today biggest harvest is I clearly understand differences between primitive and references and how does a static method's arguments work depending on variable types.
 
 **Link to work:** [Day8 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day8)
+
+### Day 9: June 24, 2022
+
+**Today's Progress**: Today, I learn what are operators and how to use them and what is expression.
+
+**Thoughts:** Today, I don't write many codes and mainly take important nodes that I haven't known.
+
+**Link to work:** [Day9 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day9)
