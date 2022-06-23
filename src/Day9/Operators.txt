@@ -1,0 +1,28 @@
+There are 4 kinds of operators in java.
+They are -
+    Assignment Operators
+
+            Assignment operator is used to assign variables and
+            can be only used in primitive data type which can be turned into numeric data types.
+
+    Arithmetic Operators
+
+            Arithmetic operator is mostly used for calculating primitive variables.
+            String can only use + sign operator.
+            ++i is prefix. So, value is returned immediately after the calculation.
+            i++ is postfix. So, value is not returned immediately after the calculation.
+            variable's value is only change after you call that variable.
+
+    Relational Operators
+
+            Relational operators can be used in comparing primitive data types and return boolean value.
+
+    Logical Operators
+
+            Logical operators are used in primitive data types.
+                !   not                 Urinary Operators       (common)
+                &   and                 Binary Operators
+                &&  short circuit and    Binary Operators       (common)
+                |   or                  Binary Operators
+                ||  short circuit or     Binary Operators       (common)
+                ^   XOR {Exclusive Or}  Binary Operators

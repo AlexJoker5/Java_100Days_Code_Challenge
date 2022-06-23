@@ -1,0 +1,19 @@
+There are three types of statements in java.
+
+Expression Statement
+
+        In some expressions, they become expression statement when you add ";" at the end of that expressions.
+        Eg. value = 2345; String [] array = new String[3];
+
+Declaration Statement
+
+        Declaration statement is declaring variables that you want to use.
+        Eg. String str;
+
+Control Flow Statement
+
+        Control flow statement is controlling the flow of your program.
+        There are three types of control flow statement.
+        They are -  Decision Statement (decide whether the code is working according to conditions or not)
+                    Looping Statement (loop the codes as long as the condition is true)
+                    Jump statements (decide whether to continue to run codes or stop the running codes, mainly used in looping statements)
