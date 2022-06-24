@@ -6,7 +6,7 @@
 
 **Thoughts:** I have now known differences instance and static variables and how to use them correctly. 
 
-**Link to work:** [Day1 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day1)
+**Link to work:** [Day_1 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day1)
 
 ### Day 2: June 16, 2022
 
