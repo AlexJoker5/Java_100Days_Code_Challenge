@@ -1,0 +1,14 @@
+There are three types of control flow statement.
+        They are -  Decision Statement (decide whether the code is working according to conditions or not)
+                    Looping Statement (loop the codes as long as the condition is true)
+                    Jump statements (decide whether to continue to run codes or stop the running codes, mainly used in looping statements)
+
+    Decision Statement
+                "if" statement
+                        it works when a condition is true if it's false then it works nothing
+                "if / else" statement
+                        "if" statement works as above and "else" statement works when "if" and "else if" statements is false
+                "if / else if / else"
+                        "else if" works when "if" and "else" statements were false. but "else if" works first then "else" works last.
+                switch
+                        a
