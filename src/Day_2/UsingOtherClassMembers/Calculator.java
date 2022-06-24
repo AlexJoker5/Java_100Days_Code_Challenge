@@ -1,4 +1,4 @@
-package Day2.UsingOtherClassMembers;
+package Day_2.UsingOtherClassMembers;
 
 public class Calculator {
 
