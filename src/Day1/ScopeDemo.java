@@ -1,4 +1,4 @@
-package Day_1;
+package Day1;
 
 public class ScopeDemo {
     public static void main(String[] args) {

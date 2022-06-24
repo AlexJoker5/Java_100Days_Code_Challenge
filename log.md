@@ -6,7 +6,7 @@
 
 **Thoughts:** I have now known differences instance and static variables and how to use them correctly. 
 
-**Link to work:** [Day_1 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day1)
+**Link to work:** [Day1 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day1)
 
 ### Day 2: June 16, 2022
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** Today biggest harvest is that I know properly static and instance. The most difficult one to remember for today is avoiding ambiguous since it's rarely used. 
 
-**Link to work:** [Day_2 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day2)
+**Link to work:** [Day2 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day2)
 
 ### Day 3: June 17, 2022
 
