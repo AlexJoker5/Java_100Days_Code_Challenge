@@ -71,3 +71,11 @@
 **Thoughts:** Today, I don't write many codes and mainly take important nodes that I haven't known.
 
 **Link to work:** [Day9 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day9)
+
+### Day 10: June 25, 2022
+
+**Today's Progress**: Today, I learn what and how to use decision statement, what is for statement and what is switch statement 
+
+**Thoughts:** I get distract and scatter my thought a lot today ,and I finish it later than usual.
+
+**Link to work:** [Day10 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day10)
