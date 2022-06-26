@@ -28,6 +28,9 @@ public class Storage {
     }
 
     public String [] getArray(){
+        /*This is public getter method that return array which is encapsulated.
+        * This kind of getter method break the rules of well encapsulation
+        * since other classes like StorageDemo can access this array and change the way they want with object state.*/
         return array;
     }
 

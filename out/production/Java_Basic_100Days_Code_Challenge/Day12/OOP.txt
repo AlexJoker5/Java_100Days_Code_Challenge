@@ -1,0 +1,18 @@
+OOP is Object-Oriented Programming.
+In an object, there are state and behaviour.
+Advantages of OOP
+            - Easy to create
+            - Easy to maintain
+            - Easy to enhance
+
+Class is a blueprint of an object.
+Class defines what kind of states and behaviours should be included in an object.
+
+Object describes states and behaviours. (properties and methods)
+
+OO Concept in Java -
+            Encapsulation
+            Inheritance
+            Composition
+            Abstraction
+            Polymorphism
