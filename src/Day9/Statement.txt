@@ -16,4 +16,4 @@ Control Flow Statement
         There are three types of control flow statement.
         They are -  Decision Statement (decide whether the code is working according to conditions or not)
                     Looping Statement (loop the codes as long as the condition is true)
-                    Jump statements (decide whether to continue to run codes or stop the running codes, mainly used in looping statements)
+                    Jump statements or Branching statements (decide whether to continue to run codes or stop the running codes, mainly used in looping statements)
