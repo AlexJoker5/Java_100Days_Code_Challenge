@@ -1,0 +1,31 @@
+What is encapsulation?
+Encapsulation is making others from outside an object unable to access object's members that you don't want others to access them.
+
+How to make encapsulation?
+            Access Modifier
+                    By using access modifiers, we can limit an object's members' access points.
+                    Example, variable, methods, constructors and classes.
+                    Access Modifier - public, default, private, protected
+
+            Interface
+                    By using interface, we can limit an object's members' access points.
+
+            Package
+                    We can limit class's access points if we want a class to be used inside a package.
+
+            Module (Library)
+                    We can limit class's access points when we want a class to be only used in a module.
+
+What is Well Encapsulation?
+        Using private everywhere is not a good practice.
+        Well Encapsulation is making an object's members to be invisible from the outside.
+        Making instance variables and methods which you don't want them to be used invisible by using private and
+        making methods which you want them to be use visible by using public is well encapsulation.
+        A method which let others from outside to reference variables is called getter method. (accessor method)
+        A method which let others from outside to change variables' values is called setter method. (mutator method)
+
+Why do we need well encapsulation?
+        it can stabilize object's states.
+        even if we change class's members which reference an encapsulated class's members,
+        there won't be big damage to encapsulated class.
+        So, it will be easier to maintain.
