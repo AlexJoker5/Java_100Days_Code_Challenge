@@ -87,3 +87,11 @@
 **Thoughts:** Today, I study later than usual time. I've finished lesson 1 (Language Fundamental of Java).
 
 **Link to work:** [Day11 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day11)
+
+### Day 12: June 27, 2022
+
+**Today's Progress**: Today, I learn what is OOP, what are OO concept in Java, what is encapsulation and how to make well encapsulation class.
+
+**Thoughts:** There is still unclear parts about well encapsulation ,but I have grasped concept of well encapsulation. So, it won't be difficult to learn forward. 
+
+**Link to work:** [Day12 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day12)
