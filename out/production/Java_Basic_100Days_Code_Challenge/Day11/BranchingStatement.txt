@@ -1,0 +1,14 @@
+There are three kinds of branching statement in java.
+        Return
+
+            You can use it when you want to end the code and give a value.
+
+        Break
+
+            Break is used in condition statements.
+            When you use break, the loop stop functioning.
+
+        Continue
+
+            Continue is also used in condition statements.
+            You used continue when you don't want to continue the running looping and start another loop again.
