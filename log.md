@@ -95,3 +95,11 @@
 **Thoughts:** There is still unclear parts about well encapsulation ,but I have grasped concept of well encapsulation. So, it won't be difficult to learn forward. 
 
 **Link to work:** [Day12 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day12)
+
+### Day 13: June 29, 2022
+
+**Today's Progress**: Today, I learn what is inheritance, what is type casting, what is constructing child and what is overriding methods.
+
+**Thoughts:** I skipped challenge for one day since my computer got caught in trojan. It troubled me so much. Lately, I feel coffee can't keep me all night. I even fell asleep at 1am and wake up 5 am while I was studying. Nevertheless, I need new plan for study if coffee can't keep me up all night.
+
+**Link to work:** [Day13 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day13)
