@@ -103,3 +103,12 @@
 **Thoughts:** I skipped challenge for one day since my computer got caught in trojan. It troubled me so much. Lately, I feel coffee can't keep me all night. I even fell asleep at 1am and wake up 5 am while I was studying. Nevertheless, I need new plan for study if coffee can't keep me up all night.
 
 **Link to work:** [Day13 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day13)
+
+
+### Day 14: June 30, 2022
+
+**Today's Progress**: Today, I learn what is overriding method and how to override a method, what is abstraction, what is abstract class and what is abstract method.
+
+**Thoughts:** Abstraction is pretty deep. I need more study time to fully comprehend it.
+
+**Link to work:** [Day14 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day14)
