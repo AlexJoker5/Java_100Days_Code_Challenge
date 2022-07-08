@@ -104,7 +104,6 @@
 
 **Link to work:** [Day13 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day13)
 
-
 ### Day 14: June 30, 2022
 
 **Today's Progress**: Today, I learn what is overriding method and how to override a method, what is abstraction, what is abstract class and what is abstract method.
@@ -112,3 +111,11 @@
 **Thoughts:** Abstraction is pretty deep. I need more study time to fully comprehend it.
 
 **Link to work:** [Day14 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day14)
+
+### Day 15: July 07, 2022
+
+**Today's Progress**: Today, I have learnt Constructors in abstraction, more details about abstract methods, type confirmation, Interfaces and how to write an interface.
+
+**Thoughts:** I stopped this challenge for a week since coffee and my body can't keep up with study load. So, from now on I'm going to study more.
+
+**Link to work:** [Day15 Projects](https://github.com/AlexJoker5/Java_100Days_Code_Challenge/tree/master/src/Day15)
