@@ -27,6 +27,6 @@ class Light{
 
 /*In java, multiple class inheritance is forbidden due to Deadly Diamond of Death problem.
 * A class can only inherit a single class.*/
-class Car extends Engine,Lgiht{
+class Car extends Engine{
 
 }
